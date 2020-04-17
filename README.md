@@ -1,7 +1,7 @@
 # Parametry projektu
 Nazwa: pai-lab-1-ss
 Imię i nazwisko studenta: Mikołaj Górczyński
-Numer albumu: 00000
+Numer albumu: 59495
 Grupa studencka: E7T1S1
 Opis: Projekt bazowy repozytorium na pierwsze spotkanie laboratoryjne z przedmiotu
 *Programowanie aplikacji internetowych*.
